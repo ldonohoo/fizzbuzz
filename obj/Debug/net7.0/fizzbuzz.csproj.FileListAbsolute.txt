@@ -1,0 +1,14 @@
+/Users/lisa/Documents/code/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz
+/Users/lisa/Documents/code/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.deps.json
+/Users/lisa/Documents/code/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.runtimeconfig.json
+/Users/lisa/Documents/code/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.dll
+/Users/lisa/Documents/code/csharp/fizzbuzz/bin/Debug/net7.0/fizzbuzz.pdb
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.AssemblyInfoInputs.cache
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.AssemblyInfo.cs
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.csproj.CoreCompileInputs.cache
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.dll
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/refint/fizzbuzz.dll
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.pdb
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/fizzbuzz.genruntimeconfig.cache
+/Users/lisa/Documents/code/csharp/fizzbuzz/obj/Debug/net7.0/ref/fizzbuzz.dll
